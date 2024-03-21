@@ -1,5 +1,10 @@
 # Change Log
 
+v5.3
+-----
+* Added children typing for react18.
+* Including src files in build for Typescript.
+
 v5.2
 -----
 * Added `props.dependencies` that re-renders the alert whenever the provided Array of `dependencies` value changes.
