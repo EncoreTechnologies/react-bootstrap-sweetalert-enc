@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-sweetalert",
-  "version": "5.2.0",
+  "name": "react-bootstrap-sweetalert-enc",
+  "version": "5.3.0",
   "description": "A variant of sweetalert for use with React and Bootstrap",
   "main": "dist/index.js",
   "scripts": {
@@ -17,11 +17,12 @@
   },
   "files": [
     "dist",
+    "src",
     "!dist/demo"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://djorg83@github.com/djorg83/react-bootstrap-sweetalert.git"
+    "url": "git+https://github.com/EncoreTechnologies/react-bootstrap-sweetalert-enc.git"
   },
   "keywords": [
     "react",
@@ -34,7 +35,7 @@
   "author": "Daniel Jorgensen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/djorg83/react-bootstrap-sweetalert/issues"
+    "url": "https://github.com/EncoreTechnologies/react-bootstrap-sweetalert-enc/issues"
   },
   "homepage": "http://djorg83.github.io/react-bootstrap-sweetalert/",
   "peerDependencies": {
